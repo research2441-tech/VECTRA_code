@@ -1,0 +1,18 @@
+{
+ "python": "3.13.18",
+ "torch": "2.15.0+cu132",
+ "numpy": "2.5.3",
+ "platform": "Linux-6.18.44-fc-v726-x86_64-with-glibc2.39",
+ "processor": "x86_64",
+ "cpus": 2,
+ "quick": false,
+ "seeds": [
+  0,
+  1,
+  2,
+  3,
+  4
+ ],
+ "n_paths": 200,
+ "runtime_s": 620.2634143829346
+}
